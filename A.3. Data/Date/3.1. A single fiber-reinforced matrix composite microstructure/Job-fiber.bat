@@ -1,0 +1,1 @@
+ABAQUS JOB=Job-fiber USER=Job-fiber-std cpus=2 INT & pause

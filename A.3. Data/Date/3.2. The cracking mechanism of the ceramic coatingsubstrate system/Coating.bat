@@ -1,0 +1,1 @@
+ABAQUS JOB=Coating user=Coating-std cpus=2 INT & pause
